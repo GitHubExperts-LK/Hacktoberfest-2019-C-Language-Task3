@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-void  main()
-{
+int main(){
+    int a[10];
+    int i;
+    
+    printf("Type 10 elements");
+    scanf("%d",&a[i]);
     
 }
